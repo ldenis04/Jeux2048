@@ -1,0 +1,9 @@
+Ajouter un joueur
+
+Visualiser les joueurs
+
+Charger les joueurs
+
+Sauvegarder la partie
+
+Quitter
